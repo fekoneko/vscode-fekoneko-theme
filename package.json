@@ -1,0 +1,33 @@
+{
+  "name": "fekoneko-theme",
+  "icon": "assets/icon.png",
+  "displayName": "fekoneko-theme",
+  "description": "fekoneko's personal theme",
+  "version": "1.1.0",
+  "publisher": "fekoneko",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "fekoneko",
+    "gnome",
+    "libadwaita",
+    "gtk",
+    "gtk4"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "fekoneko-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fekoneko-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "build": "cd src && python3 build.py"
+  }
+}

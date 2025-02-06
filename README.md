@@ -10,6 +10,7 @@ I tweaked it specifically to match `libadwaita` theme on my system (_Graphite_ t
 
 - Just run and say yes for all prompts:
 ```shell
+bun install
 bun run build
 ```
 - Install the extension from the `./fekoneko-theme-<version>.vsix` file

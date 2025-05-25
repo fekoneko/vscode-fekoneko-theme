@@ -5,11 +5,9 @@ My personal theme for VSCode. Super minimalistic and super flat.
 I also recommend removing some bloat from VSCode interface from the settings,
 so it looks something like this:
 
-## v0.1.0
+![image](https://github.com/user-attachments/assets/4cfbbac7-3b61-4c25-a21f-eda403112017)
 
-![image](https://github.com/user-attachments/assets/04520d0e-5107-408e-8df3-9da7c52be98f)
-
-## v0.2.0
+![image](https://github.com/user-attachments/assets/a434379b-72d7-43b5-a286-b660f0f3106a)
 
 # If you also want to use this theme
 
